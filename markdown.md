@@ -13,8 +13,7 @@ Markdown is often used in comments on GitHub as well as .md files
 
 **bolded** text is wrapped with ** or __
 
-Headers are formatted with #
-# # for H1 -> ###### for H6
+Headers are formatted with #: # for H1 -> ###### for H6
 
 Unordered lists are formatted with a single * for each item in the list
 Ordered lists are formatted with 1. for each item
