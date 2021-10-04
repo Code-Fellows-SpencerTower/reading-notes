@@ -6,8 +6,6 @@ It makes it easy to do simple formatting such as making lists, tables, adding li
 
 It differs from Word in that it is not WYSIWYG. The edited markdown document will be rendered to show text formatting.
 
-Markdown is often used in comments on GitHub
-
 .md is the extension for a markdown file
 
 *italics* are made by wrapping text with * or _
