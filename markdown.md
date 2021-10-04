@@ -10,6 +10,7 @@ Markdown is often used in comments on GitHub as well as .md files
 .md is the extension for a markdown file
 
 *italics* are made by wrapping text with * or _
+
 **bolded** text is wrapped with ** or __
 
 Headers are formatted with #
