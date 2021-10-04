@@ -11,5 +11,5 @@ I keep myself in a growth mindset by doing the following:
 - *staying positive*
 - *being persistent*
 
-Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-midset)
+Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
