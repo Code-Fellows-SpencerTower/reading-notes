@@ -2,8 +2,9 @@
 
 Markdown is a syntax used to format text.
 
-It differs from Word in that it is not WYSIWYG. The edited markdown document will be rendered to show text formatting.
 It makes it easy to do simple formatting such as making lists, tables, adding links, bolding and italicizing text, headers, etc.
+
+It differs from Word in that it is not WYSIWYG. The edited markdown document will be rendered to show text formatting.
 
 Markdown is often used in comments on GitHub as well as .md files
 
