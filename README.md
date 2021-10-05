@@ -18,3 +18,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 1](markdown.md)
 - [Reading Class 2](coderscomputer.md)
 - [Reading Class 3](revisions.md)
+- [Reading Class 4](htmlreflection.md)
