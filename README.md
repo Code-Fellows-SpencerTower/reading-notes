@@ -17,18 +17,6 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 * item 2
 * item 3
 
-@ item 1
-@ item 2
-@ item 3
-
-: item 1
-: item 2
-: item 3
-
 + item 1
 + item 2
 + item 3
-
-= item 1
-= item 2
-= item 3
