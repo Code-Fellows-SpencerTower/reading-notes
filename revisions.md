@@ -45,7 +45,9 @@
 - commit all changes: git commit -a
 
 ## Remote Repositories
-- git remote to 
+- online versions of repositories
+- "origin" - name for server repository was cloned from
+- "master" - name for local branch 
 
 ## Undo Changes
 - git commit --amend
