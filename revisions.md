@@ -1,7 +1,7 @@
-## Revisions and the Cloud
+# Revisions and the Cloud
 
 ## Version Control
-- version control allows you to document changes made to your code
+- Version control allows you to document changes made to your code
 - Local version control - one database on your computer
 - Centralized version control (CVS) - database stored on a single server, allows for collaboration
 - Distributed version control (DVCS) - allows for copies of the repository to be stored on different clients, prevents losing the database if the CVS goes down
