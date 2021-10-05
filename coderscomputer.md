@@ -11,4 +11,5 @@
 - ls [options] [location] - lists contents of directory
 - Absolute paths - begin with a forward slash, a location in relation to the root directory
 - Relative paths - a file/directory location in relation to your current location
-
+- ls -a - lists everything in a directory, includes hidden files
+- file - returns info about the type of file or directory
