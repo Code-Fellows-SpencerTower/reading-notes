@@ -6,7 +6,7 @@
 - IDE - software that contains text editing, debugging, compiling, and file management.
 
 ## Cheat-Sheet
-echo $SHELL - states current shell
-pwd - prints working directory (current location)
-ls [options] [location] - lists contents of directory
+- echo $SHELL - states current shell
+- pwd - prints working directory (current location)
+- ls [options] [location] - lists contents of directory
 
