@@ -1,5 +1,5 @@
 # reading-notes
-reading notes for CodeFellows
+Reading notes for CodeFellows
 
 ## Spencer Tower
 Hi, I'm Spencer. I am a student at CodeFellows.
