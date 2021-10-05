@@ -18,18 +18,18 @@
 - HTML creates the structure for a webpage
 - content is wrapped with opening and closing tags
 - Attributes - privide additional information about an element
-- <!DOCTYPE html> - defines the doc as html
-- <html></html> - aka "root element", wraps the entire page
-- <head></head> - wraps content not shown to user
-- <meta charset="utf-8"> - defines the character type used in the document
-- <title></title> - defines the title of the webpage
-- <body></body> - contains all content shown to user
-- <img src="image location" alt="image description">
-- <a href="address">Link Title</a>
+- `<!DOCTYPE html>` - defines the doc as html
+- `<html>` - aka "root element", wraps the entire page
+- `<head></head>` - wraps content not shown to user
+- `<meta charset="utf-8">` - defines the character type used in the document
+- `<title></title>` - defines the title of the webpage
+- `<body></body>` - contains all content shown to user
+- `<img src="image location" alt="image description">`
+- `<a href="address">Link Title</a>`
 
 ## HTML Semantics
 - refers to the purpose of code or an element
-- e.g. <h1> makes content into the top level header of the page
+- e.g. `<h1>` makes content into the top level header of the page
 - Use of semantics influences search engine rankings
 - makes it easier for visually imparied individuals to use the page
 - easier to navigate code
