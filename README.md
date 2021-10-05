@@ -13,3 +13,6 @@ I keep myself in a growth mindset by doing the following:
 
 Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
+* item 1
+* item 2
+* item 3
