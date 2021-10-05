@@ -1,9 +1,9 @@
 ## Wireframing
-- a plan for the structure of a website
-- focuses on feedback from user research
-- can be drawn by hand or made using software
+- The plan for the structure of a website
+- Focuses on feedback from user research
+- Can be drawn by hand or made using software
 
-## Steps
+## Wireframing Steps
 1. Identify audience
 2. Look at products similar to yours
 3. Keep research available for quick reference
