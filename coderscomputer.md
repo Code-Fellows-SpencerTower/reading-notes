@@ -9,4 +9,6 @@
 - echo $SHELL - states current shell
 - pwd - prints working directory (current location)
 - ls [options] [location] - lists contents of directory
+- Absolute paths - begin with a forward slash, a location in relation to the root directory
+- Relative paths - a file/directory location in relation to your current location
 
