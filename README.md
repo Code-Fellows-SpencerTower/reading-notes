@@ -22,3 +22,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 5](css.md)
 - [Reading Class 6](jsnotes.md)
 - [Reading Class 7](jsprogrammingnotes.md)
+- [Reading Class 8](operatorsloops.md)
