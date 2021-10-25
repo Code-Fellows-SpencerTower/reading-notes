@@ -28,4 +28,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 
 ### Code 201
 
-- [Reading Class 1](reading1_htmlcss.md)
+- [Reading Class 1](reading1_htmljs.md)

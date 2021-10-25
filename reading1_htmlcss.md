@@ -1,4 +1,4 @@
-## HTML & CSS Notes
+## HTML & Javascript Notes
 
 ### Chapter 1: Structure
 
