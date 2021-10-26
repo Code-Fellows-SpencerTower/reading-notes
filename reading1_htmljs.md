@@ -1,6 +1,6 @@
-## HTML & Javascript Notes
+# HTML & Javascript Notes
 
-### Chapter 1: Structure
+## Chapter 1: Structure
 
 - headings and subheadings separate the hierarchy of information found on the page
 - attribute = extra info about the content in the element
@@ -8,7 +8,7 @@
 - `<body>` is what is displayed in the browser
 - `<head>` has information about the page
 
-### Chapter 8: Extra Markup
+## Chapter 8: Extra Markup
 
 - start with a doctype tag, html 5 starts with `<!DOCTYPE html>`
 - comments in html: `<!-- comment -->`
@@ -22,7 +22,7 @@
 - `seamless` attribute - applied for iframes without scrollbars, does not require a value, not supported by older browsers
 - `<meta>` located inside the `<head>` element, provides information about the page
 
-### Chapter 17: HTML5 Layout
+## Chapter 17: HTML5 Layout
 
 - `<article>` is used to separate sections on a page
 - `<aside>` is used either inside or outside an `<article>`, 
@@ -35,7 +35,7 @@
 - `<a>` can be used to wrap and link entire sections
 - additional .js needs to be applied for html5 to be correctly rendered by older browsers
 
-### Chapter 18: Process & Design
+## Chapter 18: Process & Design
 
 - important to keep in mind the motivations and goals of your target audience when designing a site
 - card sorting- a technique used to design a site that breaks content into cards which are categorized by content and used to determine different sections of the site
