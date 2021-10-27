@@ -33,7 +33,7 @@
 - use `<link />` tag to link an external CSS sheet
 - `<link />` takes the `href`, `type`, and `rel` attributes
 - `href` = document location
-- `type` should be set to `text/css`
+- `type` should be set to `text/css` - optional
 - `rel` should be set to `stylesheet`
 - `<style>` is used to write CSS styling within the html document
 - *types of CSS selectors - see page 238 in textbook*
