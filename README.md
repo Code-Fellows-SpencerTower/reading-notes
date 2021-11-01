@@ -33,3 +33,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 3](class-03.md)
 - [Reading Class 4](class-04.md)
 - [Reading Class 5](class-05.md)
+- [Reading Class 5](class-06.md)
