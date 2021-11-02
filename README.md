@@ -28,9 +28,10 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 
 ### Code 201
 
-- [Reading Class 1](reading1_htmljs.md)
+- [Reading Class 1](class-01.md)
 - [Reading Class 2](class-02.md)
 - [Reading Class 3](class-03.md)
 - [Reading Class 4](class-04.md)
 - [Reading Class 5](class-05.md)
 - [Reading Class 6](class-06.md)
+- [Reading Class 7](class-07.md)
