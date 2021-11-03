@@ -25,3 +25,6 @@
 - `<td rowspan=2>` - specifies how many rows the cell should span, can be used for td and th
 
 [Codefellows: Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
+
+- Domain Modeling - making a conceptual model with code to address a specific problem. The model uses code to describe aspects of the problem
+- Object-oriented model - an entity within domain modeling that stores data inside properties and executes behaviors with methods
