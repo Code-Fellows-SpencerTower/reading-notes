@@ -1,6 +1,5 @@
 [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-- "why some work groups thrive and others falter":
 - buisness schools have modified their curriculums to pratcice team learning
 - "employee performance optimization" - process of analyzing and improving individuals workers
 - modern work is becoming more team-based
