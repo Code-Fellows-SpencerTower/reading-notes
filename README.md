@@ -43,3 +43,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 13](class-13.md)
 - [Reading Class 14a](class-14a.md)
 - [Reading Class 14b](class-14b.md)
+
+### Code 301
+
+- [Reading Class 1](301-class-01.md)
