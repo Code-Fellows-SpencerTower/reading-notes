@@ -15,7 +15,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 
 ## Table of Contents
 
-### Code 102
+### Code 102 - Intro to Software Development
 
 - [Reading Class 1](markdown.md)
 - [Reading Class 2](coderscomputer.md)
@@ -26,7 +26,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 7](jsprogrammingnotes.md)
 - [Reading Class 8](operatorsloops.md)
 
-### Code 201
+### Code 201 - Foundations of Software Development
 
 - [Reading Class 1](class-01.md)
 - [Reading Class 2](class-02.md)
@@ -44,7 +44,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 14a](class-14a.md)
 - [Reading Class 14b](class-14b.md)
 
-### Code 301
+### Code 301 - Intermediate Software Development
 
 - [Reading Class 1](301-class-01.md)
 - [Reading Class 2](301-class-02.md)
@@ -60,3 +60,12 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 12](301-class-12.md)
 - [Reading Class 13](301-class-13.md)
 - [Reading Class 14](301-class-14.md)
+
+### Code 401 - Advanced Software Development
+
+- [Reading - 401 Prep](401-prep.md)
+- [Reading Class 1](401-class-01.md)
+- [Reading Class 2](401-class-02.md)
+- [Reading Class 3](401-class-03.md)
+- [Reading Class 4](401-class-04.md)
+- [Reading Class 5](401-class-05.md)
