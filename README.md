@@ -71,7 +71,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 05: Linked Lists](401-linked-lists.md)
 - [Reading Class 6: Authentication](401-class-06.md)
 - [Reading Class 7: Bearer Authorization](401-class-07.md)
-- [Reading Class 8](401-class-08.md)
+- [Reading Class 8: Access Control (ACL)](401-class-08.md)
 - [Reading Class 9](401-class-09.md)
 - [Reading Class 10](401-class-10.md)
 - [Reading Class 11](401-class-11.md)
