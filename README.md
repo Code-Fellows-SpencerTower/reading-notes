@@ -76,5 +76,5 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 10: Stacks and Queus](401-class-10.md)
 - [Reading Class 11: Event Driven Applications](401-class-11.md)
 - [Reading Class 12: Socket.io](401-class-12.md)
-- [Reading Class 13](401-class-13.md)
+- [Reading Class 13: Message Queues](401-class-13.md)
 - [Reading Class 14](401-class-14.md)
