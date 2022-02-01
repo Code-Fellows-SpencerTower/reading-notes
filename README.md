@@ -79,5 +79,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 13: Message Queues](401-class-13.md)
 - [Reading Class 14: Event Driven Architecture](401-class-14.md)
 - [Reading Class 16:](401-class-16.md)
-- [Reading Class 16:](401-class-16.md)
-- [Reading Class 17:](401-class-17.md)
+- [Reading Class 17: AWS: S3 and Lambda](401-class-17.md)
