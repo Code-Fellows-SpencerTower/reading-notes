@@ -1,12 +1,16 @@
 # reading-notes
+
 Reading notes for CodeFellows
 
 ## Spencer Tower
+
 Hi, I'm Spencer. I am a student at CodeFellows.
 
 ## Growth Mindset
-A growth mindset involves the belief that skills and intelligence are cultivated, rather than fixed, innate qualities that cannot be further developed. 
+
+A growth mindset involves the belief that skills and intelligence are cultivated, rather than fixed, innate qualities that cannot be further developed.
 I keep myself in a growth mindset by doing the following:
+
 - *embracing challenges*
 - *staying positive*
 - *being persistent*
@@ -80,3 +84,11 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 14: Event Driven Architecture](401-class-14.md)
 - [Reading Class 16:](401-class-16.md)
 - [Reading Class 17: AWS: S3 and Lambda](401-class-17.md)
+- [Reading Class 18:](401-class-18.md)
+- [Reading Class 19:](401-class-19.md)
+- [Reading Class 20:](401-class-20.md)
+- [Reading Class 21:](401-class-21.md)
+- [Reading Class 22:](401-class-22.md)
+- [Reading Class 23:](401-class-23.md)
+- [Reading Class 24:](401-class-24.md)
+- [Reading Class 25:](401-class-25.md)
