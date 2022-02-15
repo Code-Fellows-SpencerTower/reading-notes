@@ -87,7 +87,7 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 18: AWS: API, Dynamo and Lambda](401-class-18.md)
 - [Reading Class 19: AWS: Events](401-class-19.md)
 - [Reading Class 26:](401-class-26.md)
-- [Reading Class 27:](401-class-27.md)
+- [Reading Class 27: useState() Hook](401-class-27.md)
 - [Reading Class 28:](401-class-28.md)
 - [Reading Class 29:](401-class-29.md)
 - [Reading Class 30:](401-class-30.md)
