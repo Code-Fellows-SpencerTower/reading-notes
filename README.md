@@ -91,4 +91,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 28: Component Lifecycle / useEffect() Hook](401-class-28.md)
 - [Reading Class 29: Advanced State with Reducers](401-class-29.md)
 - [Reading Class 30: Hash Tables](401-class-30.md)
-- [Reading Class 31:](401-class-31.md)
+- [Reading Class 31: Context API](401-class-31.md)
