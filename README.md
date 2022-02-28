@@ -95,4 +95,5 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 32:](401-class-32.md)
 - [Reading Class 33: <Login /> and <Auth />](401-class-33.md)
 - [Reading Class 34:](401-class-34.md)
+- [Reading Class 34: Graphs](401-class-34-graphs.md)
 - [Reading Class 35:](401-class-35.md)
