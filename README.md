@@ -102,3 +102,4 @@ Link to Growth Mindset article: [How You Can Benefit From A Growth Mindset](http
 - [Reading Class 39: Redux - Additional Topics](401-class-39.md)
 - [Reading Class 40: React Native](401-class-40.md)
 - [Reading Class 41](401-class-41.md)
+- [Reading Class 42](401-class-42.md)
